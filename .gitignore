@@ -73,3 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 content/ParagonMinions/FX/Textures/Environment/T_RevaCliff_D.uasset
+content/ParagonMinions/Characters/Global/MaterialLayers/Wood/T_TreeBark_D.uasset
+content/ParagonMinions/Characters/Global/MaterialLayers/Wood/T_TreeBark_N.uasset
